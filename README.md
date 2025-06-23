@@ -1,4 +1,4 @@
-# Large Scale Data Analysis (32 Million Records) | Python | Fireducks | Pandas
+# Large Scale Retail Data Analysis (32 Million Records) | Python | Fireducks | Pandas
 
 ## Overview
 This project demonstrates scalable data analysis techniques applied to a massive dataset with over 32 million records. Using modern Python libraries like `fireducks` (DuckDB-based), we perform memory-optimized data cleaning, exploratory data analysis (EDA), and preliminary statistical insights — all in a way that can scale far beyond what standard pandas workflows handle.
